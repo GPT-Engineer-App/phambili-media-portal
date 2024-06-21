@@ -11,7 +11,7 @@ const Index = () => {
         <Text fontSize="xl" textAlign="center">
           Your partner in digital transformation and media solutions.
         </Text>
-        <Button colorScheme="teal" size="lg">
+        <Button colorScheme="brand" size="lg">
           Get Started
         </Button>
         <Box width="100%" textAlign="center">
